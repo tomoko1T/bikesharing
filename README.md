@@ -15,43 +15,29 @@ The analysis was conducted to present for the investors how much successful woul
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/Checkout%20Times%20for%20Users%20(1).png) 
 
-Checkout Times for Users
-
 Less than two hour use is common times based on the check out time result.        
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
-
-Checkout Times by Gender
 
 The trend of times of tripduration is same for all gender. 
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 
-Trips by Weekday per Hour
-
 The peak hours are between 5:00 PM - 7:00 PM and 8:00 AM - 9:00 AM.  The commuting hours are busy time. 
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/Trip%20by%20Gender%20(weekday%20per%20Hour).png)
-
-Trip by Gender (weekday per Hour)
 
 The demand of bikeshare is much higher for male than female.  The male users ride more throughout the weekdays while there are not much difference for female users.       
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-User Trips by Gender by Weekday
-
 For subscriber, almost everyday there is the demand for male while for customers there is no difference among genders.
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/Gender%20Breakdown.png)
 
-Gender Breakdown
-
 More than 50 % of users are accounted by Male.
 
 ![This is an image](https://github.com/tomoko1T/bikesharing/blob/main/images/Customer%20Type.png)
-
-Customer Type
 
 The balance of usertype is 50-50.
 
